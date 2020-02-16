@@ -1,0 +1,8 @@
+plugin.description: This does the magic.
+plugin.author: Novik
+plugin.version: 3.8
+plugin.runlevel: 12
+rtorrent.external.error: php
+rtorrent.version: 0.9.6
+plugin.may_be_shutdowned: 0
+plugin.may_be_launched: 0
